@@ -11,6 +11,10 @@
   <script src="script.js"></script>
 </head>
 <body>
-	Index
+	Index page
+
+
+	<p> This page will be the index of the website </p>
+
 </body>
 </html>
