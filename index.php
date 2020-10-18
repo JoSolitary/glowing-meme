@@ -1,5 +1,5 @@
 <?php
-
+_autoload(class/*);
 ?>
 
 <!doctype html>
